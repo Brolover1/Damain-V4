@@ -1,32 +1,32 @@
-# `BARBARA-V4-BUG-BOT`
+# `𝐃𝐀𝐌𝐀𝐈𝐍-𝐕4-𝐁𝐔𝐆-𝐁𝐎𝐓`
 <br>
 <br>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=𝗜𝗧𝗦%20𝗕𝗔𝗥𝗕𝗔𝗥𝗔-𝗩𝟰-𝗕𝗨𝗚%20𝗕𝗢𝗧;%20𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦-𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗨𝗚%20𝗕𝗢𝗧;𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝗕𝗥𝗬𝗔𝗡𝗧%20𝗧𝗘𝗖𝗛)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=𝗜𝗧𝗦%20𝗗𝗔𝗠𝗔𝗜𝗡-𝗩𝟰-𝗕𝗨𝗚%20𝗕𝗢𝗧;%20𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦-𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗨𝗚%20𝗕𝗢𝗧;𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝗕𝗥𝗬𝗔𝗡%20𝗧𝗘𝗖𝗛)
 <p align="center">
 
 ## `Bot Intro and Features`
-[![BARBARA-BUG-V4](https://telegra.ph/file/6b731a8489d85e536832d.jpg)](https://youtu.be/WcA7GZuaN0A)
+[![𝑫𝑨𝑴𝑨𝑰𝑵-𝑩𝑼𝑮-𝑽4](https://telegra.ph/file/6b731a8489d85e536832d.jpg)](https://youtu.be/WcA7GZuaN0A)
 
-### ℹ️ **𝗕𝗔𝗥𝗕𝗔𝗥𝗔-𝗩𝟰 𝗜𝗡𝗙𝗢**
-Barbara-v4 is a versatile Multi-Device bug bot developed by [BRYANT-TECH](https://github.com/Elsa2090). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
+### ℹ️ **𝗗𝗔𝗠𝗔𝗜𝗡-𝗩𝟰 𝗜𝗡𝗙𝗢**
+Damain-v4 is a versatile Multi-Device bug bot developed by [BRYAN-TECH](https://github.com/Bryanlover1). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
 
-<p align="center"><img src="https://profile-counter.glitch.me/{BARBARA-V4-BUG}/count.svg" alt="BRYANT TECH :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{DAMAIN-V4-BUG}/count.svg" alt="BRYAN TECH :: Visitor's Count" /></p>
 
 ### **Bot Statistics**
-![Bot Repository Size](https://img.shields.io/github/repo-size/Elsa2090/Barbara-v4?style=for-the-badge)
-![Bot Repository Issues](https://img.shields.io/github/issues/Elsa2090/Barbara-v4?style=for-the-badge)
-![Bot Repository Stars](https://img.shields.io/github/stars/Elsa2090/Barbara-v4?style=for-the-badge)
-![Bot Repository Forks](https://img.shields.io/github/forks/Elsa2090/Barbara-v4?style=for-the-badge)
-![Bot Repository Watchers](https://img.shields.io/github/watchers/Elsa2090/Barbara-v4?label=Watchers&style=for-the-badge)
-![Bot Repository Contributors](https://img.shields.io/github/contributors/Elsa2090/Barbara-v4?style=for-the-badge)
-![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/Elsa2090/Barbara-v4?style=for-the-badge)
-![Bot Repository License](https://img.shields.io/github/license/Elsa2090/Barbara-v4?style=for-the-badge)*
+![Bot Repository Size](https://img.shields.io/github/repo-size/Bryanlover1/Damaim-v4?style=for-the-badge)
+![Bot Repository Issues](https://img.shields.io/github/issues/Bryanlover1/Damain-v4?style=for-the-badge)
+![Bot Repository Stars](https://img.shields.io/github/stars/Bryanlover1/Damain-v4?style=for-the-badge)
+![Bot Repository Forks](https://img.shields.io/github/forks/Bryanlover1/Damaim-v4?style=for-the-badge)
+![Bot Repository Watchers](https://img.shields.io/github/watchers/Bryanlover1/Damain-v4?label=Watchers&style=for-the-badge)
+![Bot Repository Contributors](https://img.shields.io/github/contributors/Bryanlover1/Damain-v4?style=for-the-badge)
+![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/Bryanlover1/Damain-v4?style=for-the-badge)
+![Bot Repository License](https://img.shields.io/github/license/Bryanlover1/Damain-v4?style=for-the-badge)*
 
 
 ## ⭐ `Star This Repo`
-If you find BARBARA-V4-BOT helpful, consider giving it a star ⭐ to show your appreciation.
+If you find DAMAIN-V4-BOT helpful, consider giving it a star ⭐ to show your appreciation.
 
 Thanks for the star! 🚀
 
@@ -47,7 +47,7 @@ Thanks for the star! 🚀
 ## 🛠️ `Installation Methods`
 1. Fork the repo
     <br>
-<a href='https://github.com/Elsa2090/Barbara-v4/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Bryanlover1/Damain-v4/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
     <br>
 2. Get Session ID (Pairing code)
     <br>
@@ -67,7 +67,7 @@ Thanks for the star! 🚀
 
 2. Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FElsa2090%2FBarbara-v4%3Ftab%3Dreadme-ov-file&template=https%3A%2F%2Fgithub.com%2FElsa2090%2FBarbara-v4%3Ftab%3Dreadme-ov-file' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>   >CHANGE THE USER NAME ON THE LINK AND DEPLOY
+<a href='https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FBryanlover1%2FDamain-v4%3Ftab%3Dreadme-ov-file&template=https%3A%2F%2Fgithub.com%2FBryanlover1%2FDamain-v4%3Ftab%3Dreadme-ov-file' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>   >CHANGE THE USER NAME ON THE LINK AND DEPLOY
 
 #### DEPLOY TO REPLIT
 
@@ -78,7 +78,7 @@ Thanks for the star! 🚀
 
 2. Now Deploy
     <br>
-    <a href='https://repl.it/github/Elsa2090/Bryant-mdv2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://repl.it/github/Bryanlover1/Bryan-md' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 
 
