@@ -151,19 +151,19 @@ NOW Deploy👇
 ## `CREDITS` 
 <div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
 <a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
-<div><button id="boton" type="button">Base  - BY BRYANT TECH</button></div>
-<a href="https://github.com/Elsa2090"><img src="https://github.com/Elsa2090.png" width="150" height="150" alt="BRYANT TECH"/></a>
+<div><button id="boton" type="button">Base  - BY BRYAN TECH</button></div>
+<a href="https://github.com/Bryanlover1"><img src="https://github.com/Bryanlover1.png" width="150" height="150" alt="BRYANT TECH"/></a>
 
 ## `OWNER` 
-<a href="https://github.com/Elsa2090"><img src="https://github.com/Elsa2090.png" width="250" height="250" alt="BRYANT-TECH"/></a>
+<a href="https://github.com/Bryanlover1"><img src="https://github.com/Bryanlover1.png" width="250" height="250" alt="BRYAN-TECH"/></a>
   
-**BARBARA-V4** - By `bryant tech`
+**BARBARA-V4** - By `bryan tech`
 <br>
 `Development , Maintainence , Bot Updates , Development , Features Enhancement , Plugin Debbuging`
 
 
 ## 🌈 `Support Us`
-- **Mail Us:** [bryantxtech@gmail.com](mailto:bryantxtech@gmail.com)
+- **Mail Us:** [Bryanbotchway5@gmail.com](mailto:Bryanbotchway5@gmail.com)
 - **Join Our Support Group:**
  <p align="center">
    
@@ -171,11 +171,11 @@ NOW Deploy👇
    
    [![WHATSAPP](https://img.shields.io/badge/Support%20channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L)
 
-<a aria-label="Join our chats" href="https://wa.me/233530729233?text=Hi!! Bryanttech Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/233263176982?text=Hi!! Bryantech Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
-- **Patron Support:** [`Support Me On Patreon ☕ `](https://www.patreon.com/Bryanttech/membership)
+- **Patron Support:** [`Support Me On Patreon ☕ `](https://www.patreon.com/Bryantech/membership)
 
 <p align="left">
 Click On The Link To Donate ME...
@@ -192,12 +192,12 @@ Click On The Link To Donate ME...
 Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 
 ## 🙌 `Bot Developers and Contributors`
-| [![BRYANT TECH](https://github.com/Elsa2090.png)](https://github.com/Elsa2090) | [![ |
+| [![BRYAN TECH](https://github.com/Bryanlover1.png)](https://github.com/Bryanlover1) | [![ |
 | -------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------- |
-| **Bryant Tech**<br>`Contributor`<br>`Bot Developer`<br>`Bot Testing`<br>`Bot creator` | 
+| **Bryan Tech**<br>`Contributor`<br>`Bot Developer`<br>`Bot Testing`<br>`Bot creator` | 
 
 ## 📊 `GitHub Stats of Bot Contributors`
-[![Bryant tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elsa2090&show_icons=true&theme=radical)](https://github.com/Elsa2090)
+[![Bryant tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryanlover1&show_icons=true&theme=radical)](https://github.com/Bryanlover1)
 [![Abraham Dwamena's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahamdw882&show_icons=true&theme=radical)](https://github.com/abrahamdw882)
 [![Bryan tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryanlover1&show_icons=true&theme=radical)](https://github.com/Bryanlover1)
 
@@ -217,7 +217,7 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 - Have A Good Day Ahead.
 - Don't Use This Script As Your Bot Base.
 - Bot has been `encrypted`. So you can't copyright it. 
-- Contact (233530729233) if you need any help.
+- Contact (233263176982) if you need any help.
 ---
 
  <br><br>
