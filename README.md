@@ -175,7 +175,7 @@ NOW Deploy👇
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
-- **Patron Support:** [`Support Me On Patreon ☕ `](https://www.patreon.com/Bryantech/membership)
+- **Patron Support:** [`Support Me On Patreon ☕ `](https://www.patreon.com/Bryanlover1/membership)
 
 <p align="left">
 Click On The Link To Donate ME...
@@ -184,7 +184,7 @@ Click On The Link To Donate ME...
 
 - **Buy Me a Coffee:** `Your support will help me stay motivated and continue working on exciting projects like this one.`
 
-<a href="https://buymeacoffee.com/bryantuchir">
+<a href="https://buymeacoffee.com/Bryanlover1">
 <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
 </a>
 
